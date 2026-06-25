@@ -1,5 +1,5 @@
 # 🏠 RentHouse Property Management System
-
+![RentHouse Banner](assets/renthouse-banner.png)
 A modern **Property Rental & Management System** developed using **WordPress**, **PHP**, **MySQL**, and a **custom-built WordPress theme**. This project streamlines property listing, tenant management, landlord interactions, advertisements, and payment handling through a clean and responsive web interface.
 
 ---
